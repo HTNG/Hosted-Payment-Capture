@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<htng:HTNG_HPCAuthTokenRS xsi:schemaLocation="http:/htng.org/2018B HTNG_HPCAuthTokenRS.xsd" xmlns:n1="http://www.altova.com/samplexml/other-namespace" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xenc="http://www.w3.org/2001/04/xmlenc#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htng="http:/htng.org/2018B">
+	<htng:Metadata>text</htng:Metadata>
+	<htng:HTPAuthToken>text</htng:HTPAuthToken>
+	<xenc:EncryptedKey Encoding="http://www.altova.com" Id="ID_1" MimeType="String" Type="http://www.altova.com" Recipient="String">
+		<xenc:EncryptionMethod Algorithm="http://www.altova.com">
+			<xenc:KeySize>0</xenc:KeySize>
+			<xenc:OAEPparams>UjBsR09EbGhjZ0dTQUxNQUFBUUNBRU1tQ1p0dU1GUXhEUzhi</xenc:OAEPparams>
+		</xenc:EncryptionMethod>
+		<ds:KeyInfo Id="ID_2">
+			<ds:KeyName>String</ds:KeyName>
+		</ds:KeyInfo>
+		<xenc:CipherData>
+			<xenc:CipherValue>UjBsR09EbGhjZ0dTQUxNQUFBUUNBRU1tQ1p0dU1GUXhEUzhi</xenc:CipherValue>
+		</xenc:CipherData>
+		<xenc:EncryptionProperties Id="ID_3">
+			<xenc:EncryptionProperty Target="http://www.altova.com" Id="ID_4">
+				<n1:auto-generated_for_wildcard/>
+			</xenc:EncryptionProperty>
+		</xenc:EncryptionProperties>
+		<xenc:ReferenceList>
+			<xenc:DataReference URI="http://www.altova.com"/>
+		</xenc:ReferenceList>
+		<xenc:CarriedKeyName>String</xenc:CarriedKeyName>
+	</xenc:EncryptedKey>
+	<htng:SessionID>String</htng:SessionID>
+	<htng:Any>text</htng:Any>
+</htng:HTNG_HPCAuthTokenRS>

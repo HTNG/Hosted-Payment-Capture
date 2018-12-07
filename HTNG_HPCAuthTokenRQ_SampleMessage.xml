@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<htng:HTNG_HPCAuthTokenRQ xsi:schemaLocation="http:/htng.org/2017A HTNG_HPCAuthTokenRQ.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htng="http:/htng.org/2017A">
+	<htng:Metadata>text</htng:Metadata>
+</htng:HTNG_HPCAuthTokenRQ>

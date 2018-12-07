@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<htng:HTNG_HPCResultNotifRQ xsi:schemaLocation="http:/htng.org/2018B HTNG_HPCResultNotifRQ.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htng="http:/htng.org/2018B">
+	<htng:Metadata>text</htng:Metadata>
+	<htng:SessionID>String</htng:SessionID>
+	<htng:PaymentToken>
+		<htng:Token>0</htng:Token>
+		<htng:ExpireDate>0100</htng:ExpireDate>
+	</htng:PaymentToken>
+	<htng:FormFields>
+		<htng:FormField name="String" type="text">String</htng:FormField>
+	</htng:FormFields>
+</htng:HTNG_HPCResultNotifRQ>

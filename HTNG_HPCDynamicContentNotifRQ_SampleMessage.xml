@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HTNG_HPCDynamicContentNotifRQ xsi:noNamespaceSchemaLocation="HTNG_HPCDynamicContentNotifRQ.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Metadata>text</Metadata>
+	<SessionID>String</SessionID>
+	<Lifespan>P1Y2M3DT10H30M</Lifespan>
+	<ContentItems>
+		<ContentItem>
+			<Name>String</Name>
+			<Value key="String"/>
+		</ContentItem>
+	</ContentItems>
+</HTNG_HPCDynamicContentNotifRQ>
